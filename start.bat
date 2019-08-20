@@ -1,0 +1,2 @@
+cd ./
+python dianZiCheng.py
